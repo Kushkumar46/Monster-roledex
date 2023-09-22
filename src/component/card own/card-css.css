@@ -1,0 +1,8 @@
+.card-css{
+    margin: 1px;
+      background-color: #95dada;
+      border-radius: 5px;
+      backface-visibility: hidden;
+      border: 1px solid gray;
+      padding: 25px;
+  }
